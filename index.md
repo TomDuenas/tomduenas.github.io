@@ -1,6 +1,6 @@
-## TomDuenas: Growth Engineering Blog
+## TomDuenas
 
-Estoy probando esta nueva versión de Blog, que dedicaré a temas más técnicos que los que suelo tocar en mi Blog principal: [Tomas.co](http://www.tomas.co). Dale una mirada si todavía no lo has visto. Allá suelo postear los videos que subo a mi canal de YouTube que encuentras aquí: [Videos TomDuenas](https://www.youtube.com/channel/UCGsWdy4eDniNncEjOuVoCpQ)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
