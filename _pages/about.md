@@ -23,7 +23,3 @@ Broadly, I am interested in exploring how we can develop AI systems that are not
 
 ## News
 * 2024 - New paper out! "The Ministry of Artificial Intelligence: A Catalyst For National AI Ecosystems and Global Cooperation in the Age of Superintelligence" [[ResearchGate]](https://www.researchgate.net/publication/383145922_The_Ministry_of_Artificial_Intelligence_A_Catalyst_For_National_AI_Ecosystems_and_Global_Cooperation_in_the_Age_of_Superintelligence)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
