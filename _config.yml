@@ -25,18 +25,18 @@ author:
   name             : "Tom Duenas"
   pronouns         : # example: "she/her"  
   bio              : "AI Researcher focused on AI Safety and Safe Super Intelligence"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : # URL
+  employer         : # URL
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # URL
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
