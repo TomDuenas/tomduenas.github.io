@@ -9,7 +9,7 @@ redirect_from:
 
 I'm an AI researcher currently focusing on AI Safety and developing safe super-intelligence. Im also a Political Scientist, and i'm deeply concerned about how to safeguard human institutions and society from the impending intelligence explosion. 
 
-My research focuses on ##AI safety## and safe super-intelligence. Below are some of the main areas I am interested in:
+My research focuses on AI safety and safe super-intelligence. Below are some of the main areas I am interested in:
 
 1. Superalignment
 2. Scalable Oversight
