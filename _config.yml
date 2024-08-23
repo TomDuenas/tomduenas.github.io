@@ -37,7 +37,7 @@ author:
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Tom-Duenas"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
