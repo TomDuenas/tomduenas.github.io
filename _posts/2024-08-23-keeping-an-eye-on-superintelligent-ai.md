@@ -21,4 +21,4 @@ So, I've got a challenge for you: Give Yampolskiy's paper a read and let's chat 
 [https://www.researchgate.net/publication/378008881_On_monitorability_of_AI]
 Let's get a conversation going! Who knows, maybe one of us will come up with the next big breakthrough in keeping AI safe. After all, the future of tech (and maybe humanity) could depend on figuring this stuff out!
 
-Follow Dr Yampolskiy on X. [@romanyam]
+Follow Dr Yampolskiy on X. [@romanyam](https://x.com/romanyam)
