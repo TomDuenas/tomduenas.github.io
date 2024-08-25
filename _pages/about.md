@@ -22,4 +22,5 @@ Broadly, I am interested in exploring how we can develop AI systems that are not
 [Google Scholar Page](https://scholar.google.com/citations?user=ZUEwQFkAAAAJ=en)
 
 ## News
+* 2024 - New paper out! "The Path to Superintelligence: A Critical Analysis of OpenAI's Five Levels of AI Progression " [[ResearchGate]](https://www.researchgate.net/publication/383395776_The_Path_to_Superintelligence_A_Critical_Analysis_of_OpenAI's_Five_Levels_of_AI_Progression))
 * 2024 - New paper out! "The Ministry of Artificial Intelligence: A Catalyst For National AI Ecosystems and Global Cooperation in the Age of Superintelligence" [[ResearchGate]](https://www.researchgate.net/publication/383145922_The_Ministry_of_Artificial_Intelligence_A_Catalyst_For_National_AI_Ecosystems_and_Global_Cooperation_in_the_Age_of_Superintelligence)
