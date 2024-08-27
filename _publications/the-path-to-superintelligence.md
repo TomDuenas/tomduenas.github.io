@@ -1,4 +1,5 @@
----6
+---
+
 title: "The Path to Superintelligence: A Critical Analysis of OpenAI's Five Levels of AI Progression"
 collection: publications
 category: manuscripts
