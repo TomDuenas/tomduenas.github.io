@@ -3,7 +3,7 @@ title: "The Path to Superintelligence: A Critical Analysis of OpenAI's Five Leve
 collection: publications
 category: manuscripts
 permalink: /publication/the-ministry-of-artificial-intelligence
-excerpt: 'We explore OpenAI's five levels of AI Progression, and propose safety levels to match them.'
+excerpt: 'We explore OpenAIs five levels of AI Progression, and propose safety levels to match them.'
 date: 2024-08-13
 venue: 'ResearchGate'
 slidesurl: 
