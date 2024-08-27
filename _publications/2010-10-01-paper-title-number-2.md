@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "The Path to Superintelligence: A Critical Analysis of OpenAI's Five Levels of AI Progression"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
