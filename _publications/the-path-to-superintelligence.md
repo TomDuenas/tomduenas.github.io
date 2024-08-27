@@ -3,7 +3,7 @@ title: "The Path to Superintelligence: A Critical Analysis of OpenAI's Five Leve
 collection: publications
 category: manuscripts
 permalink: /publication/the-ministry-of-artificial-intelligence
-excerpt: 'This research paper proposes a comprehensive model for a Ministry of Artificial Intelligence to address the challenges of the impending era of artificial superintelligence.'
+excerpt: 'This paper conducts a comprehensive risk assessment of OpenAI's proposed five-level framework for AGI development.'
 date: 2024-08-13
 venue: 'ResearchGate'
 slidesurl: 
