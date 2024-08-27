@@ -1,5 +1,5 @@
 ---
-title: "The Ministry of Artificial Intelligence: A Catalyst For National AI Ecosystems and Global Cooperation in the Age of Superintelligence"
+title: "The Path to Superintelligence: A Critical Analysis of OpenAI's Five Levels of AI Progression"
 collection: publications
 category: manuscripts
 permalink: /publication/the-ministry-of-artificial-intelligence
