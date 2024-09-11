@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an [AI Researcher](https://www.linkedin.com/in/ai-researcher/) currently focusing on AI Safety and developing safe super-intelligence. Im also a Political Scientist, and i'm deeply concerned about how to safeguard human institutions and society from the impending intelligence explosion. 
+I'm an [AI Researcher](https://www.linkedin.com/in/ai-researcher/) currently focusing on AI Safety and developing safe AI super-intelligence. Im also a Political Scientist, and i'm deeply concerned about how to safeguard human institutions and society from the impending intelligence explosion. 
 
 My research focuses on AI safety and safe super-intelligence. Below are some of the main areas I am interested in:
 
