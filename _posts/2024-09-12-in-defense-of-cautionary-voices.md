@@ -39,9 +39,13 @@ Shapiro's arguments often rely on the current limitations of AI systems, particu
 
 Shapiro dismisses the hard takeoff scenario as purely fictional, comparing it to Skynet. This trivializes a serious concern in AI safety research. While the exact dynamics of AI advancement are uncertain, the potential for rapid capability gain in self-improving systems is a legitimate area of study, not mere science fiction.
 
-Underestimation of Systemic Risks
+**Underestimation of Systemic Risks**
 
 Shapiro's dismissal of the "Single Point of Failure" argument fails to grasp the potential for cascading effects in complex, interconnected AI systems. As our reliance on AI increases, the risk of systemic failures or unintended consequences grows, necessitating robust safety measures and careful development practices.
-Conclusion
-While Shapiro's optimism provides a counterpoint to more cautionary views, his arguments often oversimplify complex issues and prematurely dismiss legitimate concerns raised by researchers like Yudkowsky and Yampolskiy. As we prepare our societies and governments for the advent of more advanced AI systems, we must adopt a nuanced approach that acknowledges both the potential benefits and the existential risks.
+
+**Final Thoughts**
+
+So, while Shapiro's optimism provides a counterpoint to more cautionary views, I feel his arguments often oversimplify complex issues and prematurely dismiss legitimate concerns raised by researchers like Yudkowsky and Yampolskiy. As we prepare our societies and governments for the advent of more advanced AI systems, I think we must adopt a more nuanced approach that acknowledges both the potential benefits and the existential risks.
 The work of AI safety researchers, including those Shapiro criticizes, has been crucial in highlighting potential pitfalls and encouraging responsible development practices. Their concerns should not be dismissed lightly, even if one disagrees with specific predictions or timelines.
+
+Follow the discussion on David Shapiro's Twitter: https://x.com/DaveShapi
