@@ -1,5 +1,5 @@
 ---
-title: 'A Critical Examination of David Shapiro's AI Optimism: In Defense of Cautionary Voices'
+title: 'A Critical Examination of David Shapiros AI Optimism: In Defense of Cautionary Voices'
 date: 2024-09-12
 permalink: /posts/2024-08-23-keeping-an-eye-on-superintelligent-ai/
 tags:
