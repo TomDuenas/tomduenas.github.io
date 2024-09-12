@@ -35,7 +35,7 @@ Shapiro's "Gradual Development" hypothesis underestimates the potential for rapi
 
 Shapiro's arguments often rely on the current limitations of AI systems, particularly language models. However, this fails to consider potential paradigm shifts in AI architecture that could lead to qualitatively different and more capable systems. As Roman Yampolskiy argues, the unpredictability of advanced AI systems remains a significant challenge.
 
-Mischaracterization of the "Hard Takeoff" Scenario
+**Mischaracterization of the "Hard Takeoff" Scenario**
 
 Shapiro dismisses the hard takeoff scenario as purely fictional, comparing it to Skynet. This trivializes a serious concern in AI safety research. While the exact dynamics of AI advancement are uncertain, the potential for rapid capability gain in self-improving systems is a legitimate area of study, not mere science fiction.
 
