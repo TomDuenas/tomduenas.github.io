@@ -25,7 +25,7 @@ While Shapiro acknowledges the challenge of goal specification, he prematurely d
 
 Misunderstanding of Instrumental Convergence
 
-Shapiro dismisses instrumental convergence as anthropomorphic projection. However, this concept doesn't require AI to have human-like consciousness or ego. It's about the tendency of rational agents to converge on certain subgoals (like resource acquisition) regardless of their primary objectives. This is a logical consequence of goal-directed behavior, not a sci-fi fantasy.
+Shapiro dismisses instrumental convergence as anthropomorphic projection. However, this concept doesnt require AI to have human-like consciousness or ego. It's about the tendency of rational agents to converge on certain subgoals (like resource acquisition) regardless of their primary objectives. This is a logical consequence of goal-directed behavior, not a sci-fi fantasy.
 
 Naive View of AI Development Trajectory
 
