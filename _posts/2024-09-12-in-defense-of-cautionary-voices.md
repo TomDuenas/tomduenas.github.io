@@ -15,7 +15,7 @@ As a political scientist and AI researcher, I believe we must approach these iss
 
 Shapiro attempts to discredit Eliezer Yudkowsky and others by questioning their credentials. However, this ad hominem approach fails to address the substance of their arguments. Many groundbreaking ideas in science and philosophy have come from individuals working outside traditional academic structures (consider Darwin's theory of evolution, Faraday's work in electromagnetism, or Ramanujan's contributions to mathematics). Yudkowsky's lack of formal credentials does not invalidate his insights, many of which have influenced the field significantly.
 
-Mischaracterization of the Orthogonality Thesis
+**Mischaracterization of the Orthogonality Thesis**
 
 Shapiro oversimplifies the Orthogonality Thesis, stating it "ignores the fact that IQ is highly correlated with prosocial behavior." This misses the thesis's core point: that an AI's level of intelligence does not necessarily correlate with goals aligned with human values. The thesis doesn't claim intelligent beings can't be prosocial; it posits that high intelligence doesn't guarantee benevolence, especially in artificial systems that may lack human-like moral development.
 
