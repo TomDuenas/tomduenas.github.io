@@ -9,11 +9,11 @@ tags:
 ---
 
 In a recent post titled "Deconstructing Doomer Arguments One by One," David Shapiro attempts to dismantle what he terms the "Doomer movement" in AI safety. While Shapiro's optimism is understandable, his arguments warrant careful scrutiny, especially given the potential societal and governmental implications of advanced AI systems.
-As political scientists and AI researchers, we must approach these issues with rigorous analysis, considering both optimistic and pessimistic scenarios. Let's examine some of Shapiro's key points and their potential shortcomings:
+As a political scientist and AI researcher, I believe we must approach these issues with rigorous analysis, considering both optimistic and pessimistic scenarios. Let's examine some of Shapiro's key points and their potential shortcomings:
 
 Dismissal of Expertise
 
-Shapiro attempts to discredit Eliezer Yudkowsky and others by questioning their credentials. However, this ad hominem approach fails to address the substance of their arguments. Many groundbreaking ideas in science and philosophy have come from individuals working outside traditional academic structures. Yudkowsky's lack of formal credentials does not invalidate his insights, many of which have influenced the field significantly.
+Shapiro attempts to discredit Eliezer Yudkowsky and others by questioning their credentials. However, this ad hominem approach fails to address the substance of their arguments. Many groundbreaking ideas in science and philosophy have come from individuals working outside traditional academic structures (consider Darwin's theory of evolution, Faraday's work in electromagnetism, or Ramanujan's contributions to mathematics). Yudkowsky's lack of formal credentials does not invalidate his insights, many of which have influenced the field significantly.
 
 Mischaracterization of the Orthogonality Thesis
 
