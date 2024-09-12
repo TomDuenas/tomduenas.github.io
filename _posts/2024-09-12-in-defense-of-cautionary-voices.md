@@ -19,11 +19,11 @@ Shapiro attempts to discredit Eliezer Yudkowsky and others by questioning their 
 
 Shapiro oversimplifies the Orthogonality Thesis, stating it "ignores the fact that IQ is highly correlated with prosocial behavior." This misses the thesis's core point: that an AI's level of intelligence does not necessarily correlate with goals aligned with human values. The thesis doesn't claim intelligent beings can't be prosocial; it posits that high intelligence doesn't guarantee benevolence, especially in artificial systems that may lack human-like moral development.
 
-Underestimation of the Goal Specification Problem
+**Underestimation of the Goal Specification Problem**
 
 While Shapiro acknowledges the challenge of goal specification, he prematurely declares it a "solved problem" based on current language models and Constitutional AI. This overlooks the fundamental difficulty of encoding complex human values into AI systems, especially as they become more advanced and autonomous. The alignment problem remains a critical area of research in AI safety.
 
-Misunderstanding of Instrumental Convergence
+**Misunderstanding of Instrumental Convergence**
 
 Shapiro dismisses instrumental convergence as anthropomorphic projection. However, this concept doesnt require AI to have human-like consciousness or ego. It's about the tendency of rational agents to converge on certain subgoals (like resource acquisition) regardless of their primary objectives. This is a logical consequence of goal-directed behavior, not a sci-fi fantasy.
 
