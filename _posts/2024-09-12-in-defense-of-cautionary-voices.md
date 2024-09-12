@@ -23,15 +23,15 @@ Shapiro oversimplifies the Orthogonality Thesis, stating it "ignores the fact th
 
 While Shapiro acknowledges the challenge of goal specification, he prematurely declares it a "solved problem" based on current language models and Constitutional AI. This overlooks the fundamental difficulty of encoding complex human values into AI systems, especially as they become more advanced and autonomous. The alignment problem remains a critical area of research in AI safety.
 
-**Misunderstanding of Instrumental Convergence**
+**His View of Instrumental Convergence**
 
 Shapiro dismisses instrumental convergence as anthropomorphic projection. However, this concept doesnt require AI to have human-like consciousness or ego. It's about the tendency of rational agents to converge on certain subgoals (like resource acquisition) regardless of their primary objectives. This is a logical consequence of goal-directed behavior, not a sci-fi fantasy.
 
-Naive View of AI Development Trajectory
+**His View of AI Development Trajectory**
 
 Shapiro's "Gradual Development" hypothesis underestimates the potential for rapid capability gains in AI systems. While feedback loops and societal forces will play a role, they may not be sufficient to control a rapidly self-improving AI system. The possibility of an intelligence explosion, as proposed by I.J. Good and elaborated by Nick Bostrom, remains a serious consideration.
 
-Overconfidence in Current AI Limitations
+**Overconfidence in Current AI Limitations**
 
 Shapiro's arguments often rely on the current limitations of AI systems, particularly language models. However, this fails to consider potential paradigm shifts in AI architecture that could lead to qualitatively different and more capable systems. As Roman Yampolskiy argues, the unpredictability of advanced AI systems remains a significant challenge.
 
