@@ -2,7 +2,7 @@
 title: "The Ethics of Character Engineering in Artificial Superintelligence"
 collection: publications
 category: manuscripts
-permalink: /publication/the-path-to-superintelligence
+permalink: 
 excerpt: 'This paper investigates the ethics of character engineering in artificial superintelligence (ASI), focusing on implications for AI governance and policy.'
 date: 2024-09-16
 venue: 'Research Gate'
