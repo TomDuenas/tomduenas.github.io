@@ -22,6 +22,7 @@ Broadly, I am interested in exploring how we can develop AI systems that are not
 [Google Scholar Page](https://scholar.google.com/citations?user=ZUEwQFkAAAAJ=en)
 
 ## News
+* October 2024 - New paper out! "Towards Inclusive AI: Developing a W3C-Inspired Accessibility Benchmark for Large Language Models" [[ResearchGate]](https://www.researchgate.net/publication/384662444_Towards_Inclusive_AI_Developing_a_W3C-Inspired_Accessibility_Benchmark_for_Large_Language_Models))
 * September 2024 - New paper out! "The Ethics of Character Engineering in Artificial Superintelligence" [[ResearchGate]](https://www.researchgate.net/publication/384066454_The_Ethics_of_Character_Engineering_in_Artificial_Superintelligence))
 * September 2024 - New paper out! "The Frontier of AI Alignment: Challenges and Strategies for Future AI Systems" [[ResearchGate]](https://www.researchgate.net/publication/383697750_The_Frontier_of_AI_Alignment_Challenges_and_Strategies_for_Future_AI_Systems))
 * August 2024 - New paper out! "The Path to Superintelligence: A Critical Analysis of OpenAI's Five Levels of AI Progression " [[ResearchGate]](https://www.researchgate.net/publication/383395776_The_Path_to_Superintelligence_A_Critical_Analysis_of_OpenAI's_Five_Levels_of_AI_Progression))
