@@ -1,5 +1,5 @@
 ---
-title: "Towards Inclusive AI: Developing a W3C-Inspired Accessibility Benchmark for Large Language Models"
+title: "The Risks Of Human Overreliance On Large Language Models For Critical Thinking"
 collection: publications
 category: manuscripts
 permalink: 
