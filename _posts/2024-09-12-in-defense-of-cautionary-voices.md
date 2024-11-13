@@ -8,7 +8,7 @@ tags:
   - AI Safety
 ---
 
-In a recent post titled "Deconstructing Doomer Arguments One by One," a Youtuber dedicated to AI attempts to dismantle what he terms the "Doomer movement" in AI safety. While The Youtuber's optimism is understandable, his arguments warrant careful scrutiny, especially given the potential societal and governmental implications of advanced AI systems.
+In a recent post titled "Deconstructing Doomer Arguments One by One," a Youtuber dedicated to AI, attempts to dismantle what he terms the "Doomer movement" in AI safety. While The Youtuber's optimism is understandable, his arguments warrant careful scrutiny, especially given the potential societal and governmental implications of advanced AI systems.
 As a political scientist and AI researcher, I believe we must approach these issues with rigorous analysis, considering both optimistic and pessimistic scenarios. Let's examine some of the Youtuber's key points and their potential shortcomings:
 
 **Dismissal of Expertise**
