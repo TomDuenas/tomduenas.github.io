@@ -6,7 +6,7 @@ permalink:
 excerpt: 'As large language models (LLMs) increasingly integrate into critical applications, mitigating errors like hallucinations becomes paramount for AI safety.'
 date: 2024-12-29
 venue: 'Research Gate'
-paperurl: ''
+paperurl: 'https://www.researchgate.net/publication/387509201_How_AI_Will_Redefine_Education_And_Replace_Universities'
 citation: ' Duenas, Tom & Ruiz, Diana. (2024). How AI Will Redefine Education And Replace Universities. 10.13140/RG.2.2.24542.24643.'
 ---
 
