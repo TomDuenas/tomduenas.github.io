@@ -3,7 +3,7 @@ title: "How AI Will Redefine Education And Replace Universities"
 collection: publications
 category: manuscripts
 permalink: 
-excerpt: 'As large language models (LLMs) increasingly integrate into critical applications, mitigating errors like hallucinations becomes paramount for AI safety.'
+excerpt: 'This research explores the potential of Artificial Intelligence (AI) to not only redefine education but to ultimately replace traditional universities as the dominant model of higher learning.'
 date: 2024-12-29
 venue: 'Research Gate'
 paperurl: 'https://www.researchgate.net/publication/387509201_How_AI_Will_Redefine_Education_And_Replace_Universities'
